@@ -1,0 +1,16 @@
+body{
+background-color:linen;
+color:teal;
+}
+#myCarousel{
+background-color:teal;
+color:silver;
+}
+.img-responsive{
+width:500px;
+height:500px;
+}
+#myCarousel1{
+    background-color:palevioletred;
+    color:yellow;
+}
